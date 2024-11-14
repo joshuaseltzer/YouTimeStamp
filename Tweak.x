@@ -4,11 +4,11 @@
 
 #import "../YTVideoOverlay/Header.h"
 #import "../YTVideoOverlay/Init.x"
-#import "../YouTubeHeader/YTColor.h"
-#import "../YouTubeHeader/YTMainAppVideoPlayerOverlayViewController.h"
-#import "../YouTubeHeader/YTMainAppVideoPlayerOverlayView.h"
-#import "../YouTubeHeader/YTMainAppControlsOverlayView.h"
-#import "../YouTubeHeader/YTPlayerViewController.h"
+#import <YouTubeHeader/YTColor.h>
+#import <YouTubeHeader/YTMainAppVideoPlayerOverlayViewController.h>
+#import <YouTubeHeader/YTMainAppVideoPlayerOverlayView.h>
+#import <YouTubeHeader/YTMainAppControlsOverlayView.h>
+#import <YouTubeHeader/YTPlayerViewController.h>
 
 #define TweakKey @"YouTimeStamp"
 
