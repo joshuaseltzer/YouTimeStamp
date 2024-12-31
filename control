@@ -1,9 +1,9 @@
 Package: com.arichornlover.youtimestamp
-Name: YouCopyTimeStamp
-Version: 1.0.2-cobra2168
+Name: YouTimeStamp
+Version: 1.1.0-cobra2168
 Architecture: iphoneos-arm
 Description: copies the video url with the timestamp included.
 Maintainer: arichornlover
 Author: arichornlover
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytvideooverlay (>= 1.2.5)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytvideooverlay (>= 2.0.0)
