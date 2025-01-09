@@ -4,6 +4,7 @@
 
 #import "../YTVideoOverlay/Header.h"
 #import "../YTVideoOverlay/Init.x"
+#import <YouTubeHeader/QTMIcon.h>
 #import <YouTubeHeader/YTColor.h>
 #import <YouTubeHeader/YTMainAppVideoPlayerOverlayViewController.h>
 #import <YouTubeHeader/YTMainAppVideoPlayerOverlayView.h>
